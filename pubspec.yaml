@@ -1,0 +1,30 @@
+name: flutter_page_curl
+description: A high-performance page curl effect for Flutter using GLSL fragment shaders. Simulates realistic iOS-style page turning with interactive gesture support.
+version: 0.1.0
+homepage: https://github.com/Nghi-NV/flutter_page_curl
+repository: https://github.com/Nghi-NV/flutter_page_curl
+issue_tracker: https://github.com/Nghi-NV/flutter_page_curl/issues
+
+topics:
+  - page-curl
+  - animation
+  - shader
+  - widget
+  - ui
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: '>=3.10.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  shaders:
+    - shaders/page_curl.frag
