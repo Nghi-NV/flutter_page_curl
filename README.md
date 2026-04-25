@@ -5,9 +5,7 @@ A high-performance page curl effect for Flutter, powered by GLSL fragment shader
 [![pub package](https://img.shields.io/pub/v/flutter_page_curl.svg)](https://pub.dev/packages/flutter_page_curl)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-<p align="center">
-  <video src="assets/page_curl_demo.mp4" width="300" controls muted autoplay loop></video>
-</p>
+![Page Curl Demo](assets/page_curl_demo.gif)
 
 ## Features
 
