@@ -5,7 +5,9 @@ A high-performance page curl effect for Flutter, powered by GLSL fragment shader
 [![pub package](https://img.shields.io/pub/v/flutter_page_curl.svg)](https://pub.dev/packages/flutter_page_curl)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-![Page Curl Demo](https://raw.githubusercontent.com/Nghi-NV/flutter_page_curl/main/assets/page_curl_demo.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nghi-NV/flutter_page_curl/main/assets/page_curl_demo.gif" width="300" alt="Page Curl Demo">
+</p>
 
 ## Features
 
